@@ -4,9 +4,13 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!--- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Engineer%20;React%20NextJS%20GatsbyJS%20Specialist%20;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45&color=8ec07c"></a>
-</p>
+</p> -->
+
+<h4 align="center">
+  Fullstack Engineer
+</h4> 
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=gfsd3v&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
